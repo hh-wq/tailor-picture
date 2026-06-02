@@ -1,4 +1,4 @@
-package org.example.tailorpicture;
+package com.tailor.picturebackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
